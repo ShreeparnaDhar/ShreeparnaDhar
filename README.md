@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeparnadhar&label=Profile%20views&color=0e75b6&style=flat" alt="shreeparnadhar" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Designing**
+- 🌱 I’m currently learning **JAVA Backend Development**
 
-- 👯 I’m looking to collaborate on **on Web Development Projects**
+- 👯 I’m looking to collaborate on **on JAVA Backend Project**
 
 - 📫 How to reach me **shreeparnadhar3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PdLcgl7bmpjzDl9hGwRXoph63zUKsGj1/view?usp=sharing](https://drive.google.com/file/d/1PdLcgl7bmpjzDl9hGwRXoph63zUKsGj1/view?usp=sharing)
+- 📄 Know about my experiences [Resume 2025](https://drive.google.com/file/d/1JEsl8ykjuPStNowSIsz1aXRCnI7-HPRl/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
